@@ -1,4 +1,4 @@
 node_modules/
-typings/
+typings/globals/
 .vscode/
 build/
